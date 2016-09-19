@@ -1,3 +1,1 @@
-Coded by Shintaku Liang
-Calculated by Aurora Mu
-Essay written by Harold Xiong
+Coded by Shintaku Liang, Calculated by Aurora Mu, Essay written by Harold Xiong
